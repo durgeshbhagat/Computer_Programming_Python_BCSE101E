@@ -33,3 +33,6 @@ A course webseite for Computer Programming: Python BCSE101E
   -- Built-in modules
   -- User defined modules
   -- Overview of Numpy and Pandas packages
+  
+## TextBooks
+  1. Eric Mathhes, Python Crash Course: A Hands-On, Project-Based Introdction to Programming, 2nd Edition, No starch Press, 2019 
