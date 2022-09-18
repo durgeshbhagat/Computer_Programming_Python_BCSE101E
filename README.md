@@ -22,7 +22,7 @@ A course webseite for Computer Programming: Python BCSE101E
   - Tuples: create, indexing, slicing, operations on tuples
   - Dictionary: create, add, and replace values, operations on dictionaries
   - Sets: creation and operation
-- Modules_5: **Strings and Regular Expressions**
+- Module_5: **Strings and Regular Expressions**
   - String: comparision, formatting, slicing, splitting, stripping
   - Regular expressions: matching, search and replace, patterns
 - Module_6: **Functions and Files**
