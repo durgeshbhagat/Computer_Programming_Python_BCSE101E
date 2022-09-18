@@ -1,6 +1,9 @@
 # Computer_Programming_Python_BCSE101E
 A course webseite for Computer Programming: Python BCSE101E
 ## Course Syllabus
+- Module_0: Setting up the environment for python
+  -- Installing Miniconda: creating an environment
+  - Installing Visual Studio Code
 - Module_1: **Intrduction to Problem Solving**
 - Module_2: **Programming Fundamentals**
   -- Introduction to python
