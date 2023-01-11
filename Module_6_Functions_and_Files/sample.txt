@@ -1,0 +1,4 @@
+S.No, RegistraionNo, Name
+2, 22BCE0076, Tashi Sharma
+40, 22BCE3064, Aryan Bhirud
+62, 22BCE3646, Diya Afreen Mukesh
